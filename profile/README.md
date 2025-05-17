@@ -68,6 +68,7 @@
 
 ---
 
-### 🔍 SEO Keywords
+## 🔎 SEO Keywords
 
-`aristois minecraft mod`, `minecraft utility mod`, `fabric mod support`, `minecraft addon manager`, `minecraft global chat`, `minecraft module library`, `minecraft customization`, `minecraft performance mod`, `minecraft modding community`, `minecraft gameplay enhancement`
+curseforge, optifine, apk for minecraft, heppiy mod, minecraft mod, curseforge download, pixelmon, fabric api, minecraft mods download, bakkesmod, jenny mod, minecraft mod apk, cobblemon, minecraft forge, forge mods, minecraft texture packs, we mod, worldedit, mcpedl, current minecraft version, forge mc, jenny mod minecraft, kingsmod, mc texture pack, minecraft jenny mod, modrinth, shader minecraft, stardew valley mod, aristois, modded minecraft server hosting
+
